@@ -21,4 +21,12 @@ Observaciones:
 - Uso de CPU/memoria mínimo
 - Ejecución reproducible
 
+
+Comparación con expected output:
+- La traducción coincide en contenido biológico.
+- Diferencias detectadas en el formato de aminoácidos (1 letra vs 3 letras).
+- Diferencias menores en espaciado/tabulaciones.
+- No se detectan errores de ejecución.
+
 Commit asociado:
+377c31a
