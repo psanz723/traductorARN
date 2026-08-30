@@ -1,0 +1,24 @@
+Fecha: 2026-08-30
+Objetivo: traducir secuencias ARN de prueba usando los scripts del proyecto TraductorARN
+
+Entradas:
+- datos-raw/test.fasta
+
+Comando ejecutado:
+python scripts/main.py datos-raw/test.fasta resultados/2026-08-30-exp01/salida.tsv
+
+Parámetros:
+- Ninguno
+
+Salidas generadas:
+- resultados/2026-08-30-exp01/salida.tsv
+
+Comparación con expected output:
+- Pendiente de ejecutar diff/Compare-Object
+
+Observaciones:
+- Ejecución rápida (<1 segundo)
+- Uso de CPU/memoria mínimo
+- Ejecución reproducible
+
+Commit asociado:
