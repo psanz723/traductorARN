@@ -1,0 +1,3 @@
+archivo    rol       origen      descripcion                       restricciones
+test.fasta entrada   generado    FASTA de prueba con 2 secuencias  no sensible
+expected_output.tsv salida       manual      salida esperada        no sensible
