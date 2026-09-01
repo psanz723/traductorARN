@@ -27,3 +27,11 @@ Observación de recursos:
 - Disco: sin actividad relevante
 Ejecución repetible: Sí, resultados idénticos en cada ejecución
 ------------------------------
+==============================
+Fecha y hora: 2026-09-01 19:02:51.151587
+Secuencia ARN: AUGGCCUUAGCU
+Amino�cidos (3 letras): Met-Ala-Leu-Ala
+Salida TXT: resultados/salida_3_letras.txt
+Salida CSV: resultados/exp01-salida.csv
+CSV generado con cabecera est�ndar.
+==============================
