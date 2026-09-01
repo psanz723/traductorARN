@@ -106,3 +106,15 @@ class SecuenciaAminoacido(SecuenciaARN):
     def print_info(self):
         super().print_info()
         print(f"Secuencia aminoacidos:{self.st_secuenciaAminoacido}")
+
+  # Convierte la secuencia de aminoácidos de 1 letra a 3 letras
+    def convertir_a_3_letras(self):
+        sec_1 = self.st_secuenciaAminoacido
+        sec_3 = []
+
+        for aa in sec_1:
+            aa_3 = Diccionario.dic_aa_3_letras.get(aa, "???")
+            sec_3.append(aa_3)
+
+        # Guardamos la secuencia convertida como string separado por guiones
+        self._st_secuenciaAminoacido = "-".join(sec_3)
