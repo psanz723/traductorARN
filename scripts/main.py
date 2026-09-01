@@ -41,3 +41,15 @@ def main():
 
 if __name__ == "__main__":
     main()
+ # 7. Registrar runlog
+    import datetime
+    ruta_runlog = "resultados/runlog.txt"
+
+    with open(ruta_runlog, "a") as log:
+        log.write("\n==============================\n")
+        log.write(f"Fecha y hora: {datetime.datetime.now()}\n")
+        log.write(f"Secuencia ARN: {secuencia}\n")
+        log.write(f"Aminoácidos (1 letra): {obj.st_secuenciaAminoacido}\n")
+        log.write(f"Aminoácidos (3 letras): {obj.st_secuenciaAminoacido}\n")
+        log.write(f"Salida guardada en: {ruta_salida}\n")
+        log.write("==============================\n")
