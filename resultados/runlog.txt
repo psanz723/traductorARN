@@ -1,0 +1,29 @@
+
+==============================
+Fecha y hora: 2026-09-01 18:59:27.179150
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 0
+Milliseconds      : 114
+Ticks             : 1148465
+TotalDays         : 1,32924189814815E-06
+TotalHours        : 3,19018055555556E-05
+TotalMinutes      : 0,00191410833333333
+TotalSeconds      : 0,1148465
+TotalMilliseconds : 114,8465
+
+
+------------------------------
+Medición de eficiencia (exp01)
+------------------------------
+Tiempo de ejecución (PowerShell): 114 ms
+TotalMilliseconds: 114.8465
+Observación de recursos:
+- CPU: uso mínimo
+- Memoria: estable
+- Disco: sin actividad relevante
+Ejecución repetible: Sí, resultados idénticos en cada ejecución
+------------------------------
