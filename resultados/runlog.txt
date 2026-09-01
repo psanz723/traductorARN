@@ -54,3 +54,11 @@ Salida real: resultados/exp01-salida.csv
 Resultado:
 - Archivos idénticos (sin diferencias)
 ------------------------------
+==============================
+Fecha y hora: 2026-09-01 19:25:10.559592
+Secuencia ARN: AUGGCCUUAGCU
+Aminoácidos (3 letras): Met-Ala-Leu-Ala
+Salida TXT: resultados/salida_3_letras.txt
+Salida CSV: resultados/exp01-salida.csv
+Mensajes de salida mejorados y ejecución completada.
+==============================
