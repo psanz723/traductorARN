@@ -1,0 +1,46 @@
+# ----------------------------------------
+# Python cache
+# ----------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------------------------
+# Jupyter notebooks
+# ----------------------------------------
+.ipynb_checkpoints/
+
+# ----------------------------------------
+# Entornos virtuales
+# ----------------------------------------
+entorno/
+venv/
+.env/
+
+# ----------------------------------------
+# Archivos temporales del sistema
+# ----------------------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------------------
+# Datos intermedios (no reproducibles)
+# ----------------------------------------
+datos-intermedios/
+
+# ----------------------------------------
+# Resultados: ignorar salidas reales para evitar ruido
+# (solo versionar expected_output)
+# ----------------------------------------
+resultados/*/salida.tsv
+
+# ----------------------------------------
+# Logs generados automáticamente
+# ----------------------------------------
+resultados/*/runlog.txt
+
+# ----------------------------------------
+# Archivos de ejecución o pruebas
+# ----------------------------------------
+*.log
