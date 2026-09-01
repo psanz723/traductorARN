@@ -62,3 +62,24 @@ Salida TXT: resultados/salida_3_letras.txt
 Salida CSV: resultados/exp01-salida.csv
 Mensajes de salida mejorados y ejecución completada.
 ==============================
+
+==============================
+Fecha y hora: 2026-09-01 19:26:36.371011
+Secuencia ARN: AUGGCCUUAGCU
+Aminoácidos (3 letras): Met-Ala-Leu-Ala
+Salida TXT: resultados/salida_3_letras.txt
+Salida CSV: resultados/exp01-salida.csv
+Mensajes de salida mejorados y ejecución completada.
+==============================
+
+
+------------------------------
+Ejecución final previa a entrega
+------------------------------
+- Script ejecutado correctamente.
+- Secuencia procesada: AUGGCCUUAGCU
+- Aminoácidos (3 letras): Met-Ala-Leu-Ala
+- Salidas TXT y CSV generadas sin errores.
+- Mensajes de salida verificados.
+- Proyecto listo para empaquetar.
+------------------------------
