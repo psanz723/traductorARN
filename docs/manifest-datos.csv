@@ -1,0 +1,7 @@
+archivo,rol,origen,descripción,restricciones
+datos-raw/secuenciaARN.txt,entrada,creado por el usuario,Secuencia ARN para traducir,No contiene datos sensibles
+scripts/main.py,script,creado por el usuario,Script principal del proyecto,Sin restricciones
+scripts/SecuenciaARN.py,script,creado por el usuario,Clase para validar y traducir ARN,Sin restricciones
+scripts/Diccionario.py,script,creado por el usuario,Diccionario de codones y aminoácidos,Sin restricciones
+resultados/salida_3_letras.txt,salida,generado por el script,Secuencia de aminoácidos en formato 3 letras,No contiene datos sensibles
+resultados/runlog.txt,runlog,generado por el script,Registro de ejecución con trazabilidad,No contiene datos sensibles
